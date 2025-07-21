@@ -1,6 +1,6 @@
 // Greenhouse Coffens script-INDEPENDENT MODE
 // Written by Wael Al Hamwi & Dr.Mathias Hoffmann 
-// Version 0.2
+// Version 0.1
 
 
 // Import the required libraries
